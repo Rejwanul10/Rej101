@@ -1,3 +1,3 @@
 # Rej101
-Total 
-Hello
+total 
+hello
